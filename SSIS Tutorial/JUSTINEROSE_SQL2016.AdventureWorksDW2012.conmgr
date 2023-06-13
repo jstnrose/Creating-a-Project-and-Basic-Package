@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JUSTINEROSE_SQL2016.AdventureWorksDW2012"
+  DTS:DTSID="{CD1CE655-CE9B-4974-9F58-98DD4FC8E65C}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=JUSTINEROSE\SQL2016;Initial Catalog=AdventureWorksDW2012;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS Tutorial-{CD1CE655-CE9B-4974-9F58-98DD4FC8E65C}JUSTINEROSE\SQL2016.AdventureWorksDW2012;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
